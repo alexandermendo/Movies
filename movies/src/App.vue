@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Lista de Películas</h1>
+    <h1>Lista de Películas IMDb</h1>
     <MovieList :movies="movieData" />
     <div class="movie-card-list">
       <MovieFilter/>
